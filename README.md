@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Nak!
+### 👋 Hello, I'm Nack!
 
 👨‍💻 **Backend Developer** | 🌟 **Passionate Learner** | 🚀 **Future Full Stack Guru**
 
