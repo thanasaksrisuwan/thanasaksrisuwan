@@ -9,7 +9,7 @@ I’m a dedicated backend developer with a knack for solving complex problems an
 - **Frameworks:** Laravel
 - **Other frontend Skills** Livewire, Blade Template, HTML, CSS(Bootstrap), etc
 - **Database:** MySQL, SQL, ORM
-- **Tools:** Git, Git flow, Docker, Redis, Postman, Jasper Report, etc.
+- **Tools:** Git, Git flow, WSL(Ubuntu, Oracle Linux), Docker, Redis, Postman, Jasper Report, etc.
 - **Principles/Patterns** SOLID, Services, Repository
 
 ## Experience
