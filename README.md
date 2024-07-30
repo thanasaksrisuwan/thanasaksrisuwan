@@ -8,8 +8,8 @@ I’m a dedicated backend developer with a knack for solving complex problems an
 - **Languages:** PHP(OOP), JavaScript (Vue.js)
 - **Frameworks:** Laravel
 - **Other frontend Skills** Livewire, Blade Template, HTML, CSS(Bootstrap), etc
-- **Database:** MySQL, SQL, ORM
-- **Tools:** Git, Git flow, WSL(Ubuntu, Oracle Linux), Docker, Redis, Postman, Jasper Report, etc.
+- **Database:** MySQL, SQL, ORM, Redis
+- **Tools:** Git, Git flow, WSL(Ubuntu, Oracle Linux), Docker, Postman, Jasper Report, etc.
 - **Principles/Patterns** SOLID, Services, Repository
 
 ## Experience
