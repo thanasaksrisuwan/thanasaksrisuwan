@@ -31,9 +31,9 @@ I’m a dedicated backend developer with a knack for solving complex problems an
 
 
 🎯 **Currently Working On:**
-- Building a stunning personal website to showcase my portfolio.
-- Mastering advanced web design with HTML, CSS, and JavaScript.
-- Expanding my expertise in real-time trading systems and AI content creation.
+- Learn Vuejs, Starting to build some project.
+- Learn Laravel11 and new feature.
+- Take udemy course.
 
 💡 **Learning Goals:**
 - Enhancing my understanding of data structures and algorithms.
