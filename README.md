@@ -10,7 +10,7 @@ I’m a dedicated backend developer with a knack for solving complex problems an
 - **Other frontend Skills** Livewire, Blade Template, HTML, CSS(Bootstrap), etc
 - **Database:** MySQL, SQL, ORM, Redis
 - **Tools:** Git, Git flow, WSL(Ubuntu, Oracle Linux), Docker, Postman, Jasper Report, etc.
-- **Principles/Patterns** SOLID, Services, Repository
+- **Principles/Patterns:** SOLID, Services, Repository
 
 ## Experience
 
