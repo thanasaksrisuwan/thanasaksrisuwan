@@ -34,6 +34,7 @@ I’m a dedicated backend developer with a knack for solving complex problems an
 - Learn Vuejs, Starting to build some project.
 - Learn Laravel11 and new feature.
 - Take udemy course.
+- https://thanasaksrisuwan.github.io/simple-profile-page/
 
 💡 **Learning Goals:**
 - Enhancing my understanding of data structures and algorithms.
